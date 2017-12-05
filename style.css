@@ -15,6 +15,10 @@ body{
 #white{
 color: white;
 font-family: serif;
+
+#white{
+color: white;
+font-family: serif;
 }
 .lay{
   position: absolute;
@@ -67,6 +71,7 @@ font-family: serif;
     top: 15px;
     right: 35px;
   }
+}
 }
 .image:hover{
 opacity: 0.5;
@@ -174,7 +179,7 @@ background-color: #F15A29;
 }*/
  .p1 {
    display: block;
-margin-left: 10px;
+margin-left: 100px;
 margin-right: 10px;
 margin-top: 10px;
 margin-bottom: 10px;
@@ -191,9 +196,10 @@ margin-top: 10px;
 
 .p2 {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 75px;
+  margin-right: 10px;
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 #first{
   background-color: white;
@@ -252,7 +258,7 @@ padding: 10px;
     color: white
   }
   .form button{
-    background-color: #F15A29;
+    background-color: #red;
     width: 100px;
     border-width: 0;
     padding: 5px;
@@ -277,6 +283,7 @@ padding: 10px;
   display: block;
   color: white;
   padding-top: 20px;
+  width: 100%;
   }
 .footer h6{
   padding: 20px 0 10px 0;
