@@ -1,6 +1,7 @@
 body{
   font-family: 'Saira Extra Condensed', sans-serif;
 }
+
 .logo{
   position: absolute;
   top: 50%;
@@ -83,9 +84,10 @@ font-family:cursive;
 .morning:hover{
   color: black;
 }
-.image-breakfast {
-  background-image: ip2/assets/foodtop/breakfast.jpg;
+.breakfast
+{background-image: "ip2/assets/foodtop/breakfast.jpg"
 }
+
 .breakfast:hover{
   color: white;
   font-size: 20px;
