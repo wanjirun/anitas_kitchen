@@ -1,7 +1,10 @@
 body{
   font-family: 'Saira Extra Condensed', sans-serif;
 }
-
+.image1 {
+  width: 100%;
+  
+}
 .logo{
   position: absolute;
   top: 50%;
